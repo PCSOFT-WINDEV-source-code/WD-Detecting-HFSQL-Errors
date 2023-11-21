@@ -1,0 +1,416 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WIN_Lock
+ major_version : 28
+ minor_version : 0
+ type : 2
+ description : ""
+ subtype : 0
+window :
+ name : WIN_Lock
+ identifier : 0x2874c13f1c8cdc5d
+ internal_properties : CAAAAAgAAACIo6iQDfuAESIE+H5jynGHfCXzNoTGRRo2bc0Qh3nA4fV1+UQxawiLGOrZkfubRVJFuX4w5Wm536doq3ESJforxeunerVWH4Y4goVy5a4rb8pMd32lNuVDrSMzHvw86UHsE5a3s02o/rhhs8QUOAzYiLWF1jvCHZ2Bz4MMgcmd60bHJGKL96eS6fQjDNCqn/rmSu94HKurIf44t7xnAISTaGprxDhMQ5nCbCb1t2BliAh+YOSF7zw7qx+F3ecAyh20g1mfaMcFqmw8vdUz+ESXDSXdyKn9LrfH4fWtYmBUNYLbXgKTK3sYykyi26jBUMuUzDyi2PT4xwJZwhFlUb0MPP4Bk7PtElgEMG3iAYH+mSYGQP3BWwDz36rXaIjOlitsdOYjr0pnzI+gUNz14mJo/6M1jIWUY/UAmapyFU2Wz9cPhNnjqy0tHC9VDS6Ipsn/wL1VKBSrrqNiAhnE95ivTcXsMnEtQGO8GMPhuQgA89u5309C8e9IUnP87QFmSzDzN961RZNZ5GkFMPuDA8NDD6F286O+1EFuVTfqEbHxuiLtucsCpR1IB7Jg2rYtxst9JjkF4zx2YaKIlk7+TDK7Q2vf9QdU4ls+RPfmvu+ugACVF4ke9UPYzDghpvd/CsPbTcZ0miUqcLyu4QDgZ0kqcOMaA34Tx2lSsdBLhGUiy3m2SsfKSIvGY22s5/GstxSDdTy047pG6YBUyMPvhV5NydHNITceKkByn4nVqdazppTI6v3xMEF6tMPkwo5E+5JUAZSOPJqd2hXQtpwQwd2zb0eOvLljBM0qds0coNzNOXHpPdmkDXpvkRp5oIOpM6kEAVsz0624fx/NUxi6wC42Enh/Gy8=
+ properties :
+  x : 459
+  y : 284
+  width : 568
+  height : 307
+  widthClient : 566
+  heightClient : 275
+  widthMin : -4
+  heightMin : 7
+ controls :
+  -
+    name : STC_Explanations
+    identifier : 0x2874c13f1c90dc5d
+    internal_properties : CAAAAAgAAABtwk6DERyGxEa0sWigpgsw5plJcpe8DRwP0DM8x2VyMCyWjYFlsk7tANSqWDP1UJ6PaBDoczrMqxbIY1MbgJWAZZawW4i7b+iTORdhyrZrZEJaemh19brHa+yjYh5h/o8GJLHh9M/nXha9M/PgoJ0zz1w6v72WgXoHXKettVCYszWKgmleqymQlupzAn/om0nVcBuq/krtMt9N6d5e/X2SSeVeNYrTjmP05gXR8D7XeH9U84+W9/0l5G07TQPon5fskKkPjlk+9fPjIxB7stV2lvFiyN71S0T9cs6Z/KY2GCD01r0RGyV42dHIVgjn2Asnn7n7olDBMY69EnolKwuqwfsN9TDI6sfDzL1UikTO2YOCWimd8LScj6KsGfv7FYwB2ZOqfTTNBIx24chTaU0P67ZvbivCNlb5tg6NNf3yzKADybS/fhEIhBN1gLFfjPtjpBsg1omXgXGI40qkOJVN0UIxaqtMazr5Dy8MU2Wt0WsNnLcWIri1+J1V1+CCVXAC6Hr9p4vouDNk7A==
+    properties :
+     x : 34
+     y : 75
+     width : 498
+     height : 33
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes :
+      -
+        code : |1-
+         
+        type : 14
+  -
+    name : RETRY
+    identifier : 0x2874c13f1c8fdc5d
+    internal_properties : CAAAAAgAAABZILHHu9CQxxFEIcO1AxloY9HKygIrr44l715oJ5dFxeOy7RhaPsPuFv6uKdtWGFHoeVbmi2LliidL59CNJnyjgkZYiL/ZWlYQOK91XxRHSw9OwtUHg2GYAcxhREKF0ty6K8LyPSNgG03y3Lkh2HNTuip4OoDPrFbXXGkGsCg4UjiyiRtQ0CPQgTSQRhtpg36mWWIzXZfSH00B0Y5drgpiAMs5egCEsX/awaWfZT3bKGgQ4mgo3ugOiuIEX3kXPZRRY39N36aV81YxZ2UeIb4ixnnJsC5tO9wHHroy4A/mqXi+PeebNcX+uIX3oNVoN54SSQcCG0wp9fOv/QlnRHBRggEYSuZHxTj/E1BXEG13l/baN+LS4dhfHbOEZ+ZbAaz2gwMU2lzcYdCo1mjZf0Kz+kpXIqn7/OEZffHYfMKNFXRP6Ne9nBF/SUt/2oOjr1V/D0okooRIqYhDdLS57x28grDw3NaXA4tR43KZmgKN/n049VqNMG1Cv0wNuSUJyQiN2EUk2zmNrelENFiGjXSn5D0WT2m6WdxdGmViMLZmtMvn5a+kjvkA/SVxePFxN6WGmV4aoWS3DhNAgVzPywXRQNbs66gMA6ET8YD2s4gbHgu8v6GMPUBdEVZyyy4hZU0wwx+KuQICamSqXfFZwbs8RVN/9ZZpLzkX6wtwV/ftaA/dhDikWGBz5CKQC1hQcFdOqgdrbuOLAVmTG+nVAD55NcQFa/01v/8YAa9tGD5bhJqyCDbhDE1WBK4EIya5XFd2PtLkXb/EQI11ATVDxRu0peLP+fgZWn0icDcJ4hT2u7LGbYXmP+wfLc/L76KLwPO4mCyggDswwqVHLDVbjeYn514+MHW3REt5XF414lSu
+    properties :
+     x : 180
+     y : 246
+     width : 99
+     height : 20
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1-
+         
+        type : 14
+      -
+        code : |1+
+         // closes the window
+         // retry to run the command
+         Close("",opRetry)
+         
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : CANCEL
+    identifier : 0x2874c13f1c8edc5d
+    internal_properties : CAAAAAgAAAAQ54vmQOelTFrtJ8uBjNhM6DO11Ds+qi6N5ZzapOVv2vAlPz1twCJTxKHTZQ5nWc68OFJ+ZR4LW0Da4c54FNtwlRiWgbzql6qxpDfcgqVdbFXpPbdQyGObfWNWyAFcUS3h412MUm7FNKU1QW60JimL2Nm1o8NfIKzEiHDNrkcZ07s6wUTHwxRzMZRfa6BE9gPf3eLGWpbYw75B2YpSj1C7N42opB+AeocLIZswzt5fPcvGdMDHyi62tvcpzedP8DobWMR+4dgUDaxwiiEtlyK2y5yvB7Q78aj+xZdSpDM50IsptVo41O450bk0mWb57Z4/4qKP8rpnS1yOifCyWU9v/lQUBWTMCX/OIqxnNur04926/tphEIRDmqQnaAK0quz8k6YL2ll9cdmAf/p3vKHMDtQHmPkgUq0fIcovm619t+L4xORo273QKLSM/UJBLOUuZgV2Ot+qVbmu6znqw8jetXtv7IyWDT3w4i3UUWQU1nYlTl77Z8ckxpnm/DxXJjDAtU6swRgpI+LrX2Fjvf8rd3whMdVb5QzajybJY7xRyjyugCfOP8sSFlzUS9i3aGEzGnvKn8HrqmzRFn2MWeYzZ6WXPZRDC62miCu5uu6YaJT9lPuYNnS1LBujmhFtgBntKmqwVVMo8mNd9PJm5Sag2MZOyfQ27TW+NIjFGCek4MZ2ecZM1QhdA80XnF0yF+nRCYJj5MuJOWpYUlKLr1rMR4j1ekZPuDLSsdMrghHrH9RQAimaJkQxtEr8K1JAEKrq8mrd3Nsog5UfXxCfcRH/y7m+6dfPDnltux56KbQ/FGE3WnunJ7mka4MkwqndgKSpVweHDnQiKBsZGWyEXJVX/umfbfmlYJymwOshexe1DQw=
+    properties :
+     x : 285
+     y : 246
+     width : 99
+     height : 20
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1-
+         
+        type : 14
+      -
+        code : |1+
+         // closes the window
+         // cancel the command
+         Close("",opCancel)
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : Header
+    identifier : 0x2874c13f1c8ddc5d
+    internal_properties : CAAAAAgAAAC1C4FSNHjyvJRxMCY7FcocMOrg9V4o1rJla4sKVIWkn1dE72RzuN5cYrolDwDiPO5psUf6r6Cv9ZZDhKwAQ1t8YaDx09ymI6hFzl8Jvfre4M3XU2oSWHsEsQehefSJ5YuauZqT93HRNmobxxXGYywCMNf/blNRH8myDfeuknZmnUB5sDYzcgH1cVWnG87NJzXLYVcoyPoSwWqKdE2YxvGKxzvdtT+fqlHCyoHY8Yq4zBpukODSPpsnkNDWO8ueTflI3TuImJhmh182yDxQwVGSmQ0XPr12e5WLNkBsrQlStYS8IluIBFkNiUBZon6xxeYhBnVJefheBA9g20UKkSlABcVPSSmXWy+7V+NzOjB/uV02awj6uRijimbClX3ZH8ThwvVt/Y3PzelQUeMgUgjGO2IKWor9FE15oHTP1QKWwEQxqZRSRmrSjC2DZSNGuR9SsKCkQJEMvOZCtjgitSXczBhhdcDKp8HVdGEJUom2lU1+j5JNOot/P3zvDE55
+    properties :
+     x : 105
+     y : 9
+     width : 489
+     height : 54
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes :
+      -
+        code : |1-
+         
+        type : 14
+  -
+    name : Image1
+    identifier : 0x2874c13f1c91dc5d
+    internal_properties : CAAAAAgAAADXSd/g8X9qwEjNESpwW09kjglwWd/QvGkhxwWipT3crI06H7T7VdPnIH4Z+VtZoREQvZzelx2wDe2KYR+Tt3ZM7q6tAXxVauAMjbrs3RavQ4xR2QZ4JD3iynF5nHAz+ZOvSzzkAV7VXjkpRhrrchmdGtXsypLYp5sSzyY0RiR7lJJl4ropurouRr5Mf8PVd9CZ/k55NbHio+8M+cDXHxhgzVANNKkimAD1dolQ1aKXS7sydGeMwFu+eiurNKUQc1We9DEZiD0McmCOfParITTUqYzXk1rGLjUkiv2+erszPPUHHrQQdHJLJqYooIV5b1AqKKXBZddLF+uDbzpLZHrx/64NbyigMqcLjb3mGOpiJnwQkt/EmxlEYZuS0unh5wbDirgoHKVFQs4b+IG4bVnoRaTuWhvtXpdD7ozVcIHU7K2taUWpzq9xE8LySXzyjg8YuYFcVGgjgo3w+eAMv9bHi0z5OjbkqYdpRigDfcq+50Y4c4jRXb+v1FolhSlcBmYHw2wiT4lg6kvY/ohw750nLLB8rd/RgvYDoj06AzGI8Lq3eBbCDDhsVrvel53EziFryCg3BVhAMATiDgffVQeackTCpQ==
+    properties :
+     x : 29
+     y : 1
+     width : 63
+     height : 63
+    type : 8
+    code_elements :
+     type_code : 8
+     p_codes :
+      -
+        code : |1-
+         
+        type : 14
+      -
+        code : |1-
+         
+        type : 18
+  -
+    name : ListLocks
+    identifier : 0x2874c13f1c92dc5d
+    internal_properties : CAAAAAgAAABCXQTplVWoqxb9IDNUKxdgLwOdVvAv8BJOaHuwVcbeqehLZUZDvuQxB+zEZICz1cFLoiDKq57Ef005y2MBj2yNOqTkUUHKTF0ezcojqBSYzcMKBtTswtBbehNlQQ6/ydj5gx06poPtEzV3Rx+xJC+WFFLhksQeFbwTflxzY4VCxWaIhLVsbXfZ48WX1BHsYOYv0tpdtfH6V+elQLtR9NyiBRL28oDZHkm2F/Uv5ma6+dfjtUm8UtPC/X8nRy9PS2FMeCsfo63tlxZJ5FFpVHD4IcRLEZwo0NyBp9c+jb3FmEfqBZLmQ+jTddFFMDhG7+riWpZbpRK2tnBuGqFlg422cRXYbyzPDSxbdguXUw5Z+EpBMFnMHo5k3tn3ohh9S/5dBH8Jfp7WqDBly3DLYP3OFAuKiS2eGPobyD8NqYVfQhZEZrHq8spLfwURfaO4tkIbF85okrmOa1qZZ91l0xwJ9j964WdPUqVs6Pdr+2EjMaQ7uNnc2N0//uGARaIYivUWm2HKDRiZuWcVwbJ35xb0OWQb0ycyro/j6oXY94DZnj/Txg+lm21s5UlJkCdkeLQ6O8y+SDzp3ko5Whei02QG6h8C7AWXkCnGOEBntGo7G/ZEOw/EvPCyYXBxbJWIBBkN0X3mrrNV+kEu0jpxYaJjJjCXqbMGTdrzOWfa4ppHL5rYdTMCefxhVlSKeUzKVntjeyr4GMzlCqfWPguRYMf/p4WkYCmulRgjkcgxOCcQQDuFyiC4qmVgH4nDZtzT0GiXVoKIKH1EY773NMH8tXVNZiDUaR1kwnVvg8p4AUet
+    properties :
+     x : 71
+     y : 115
+     width : 461
+     height : 94
+    type : 2
+    code_elements :
+     type_code : 3
+     p_codes :
+      -
+        type : 276
+        enabled : false
+      -
+        type : 277
+        enabled : false
+      -
+        type : 278
+        enabled : false
+  -
+    name : Static1
+    identifier : 0x2874c13f1c93dc5d
+    internal_properties : CAAAAAgAAAB+PblVgy5dhhaBjFI2Xc+gOQy91vfZOawOrwghDT7XVQMZ5GxKNVAYgYy9epnPvUCXc7AHagaCz87aYkegEu/7TxRjdPN7uyg8X/0w46BknTZKON3u/0lhUpQmi+ZWedSj6a0rhLFH6WL3kcscDib3sH8mQV4jQzNgaIyKYXKVXybXAeGSfQdpiN/e8KIy3mAjrpcxbeLZ89F4pKKW3TxpHnnulijWSKrE9+rRNI8j9z0HHU6GGCZNAXA7a7TUconh6ygNX3+jM3sSZvo+uKe/mophxeml34MVVjFDNRjGBr/BTy79dX5IL4+Y03RTo4RhMeOy0tM3ngk54t6ALTVsoCZQ19Ets2SqrtdrVuMSg47XQXcfS7heHCnF/nP81mRN/g6a8jOVM+lvz+8X6PszJMdP0qZ0uZq/JftSV/H/N297GHCGuVQs6WW9bwP5JTBqSwXrDv0C/h0Bj55m7oPnfn5W6WF/ojAgdqiKQD8ND+o0FAHswsfHnHQ=
+    properties :
+     x : 34
+     y : 215
+     width : 474
+     height : 14
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes :
+      -
+        code : |1-
+         
+        type : 14
+  -
+    name : ListMultiLocks
+    identifier : 0x2874c13f1c94dc5d
+    internal_properties : CAAAAAgAAADqKjfONcVikrvcIcm6rRucXFG7NA8LbeQsSw8DWGPr79VO3E+3+NOxaWXyuDUqGXOBdBau9xNpP9tVg5yxmsjRlHN+CC42/ZHOjPNtWRonDOMevC8gzVWoAhLxGTIBs0sRgWYvn5ftJUiLTkl14bD0LbXZaxifqN61rNy91xzBCNrmU+/ZtTpsI2Wna8s9gJR5yw5EWFDfh6lxjQY5nnOiDE2+L5Ex03srQd0YR9f/+DBZnirH5uq4GRfBxfaEZD7rR3sOpcloDEJH1ZRkPCGVNhZ+KbVTCfEwHFeOYWdW7i7IaHGk1oOPVjWlE97uygJ6Y/jSh/JgyzHTKZtRLqrd3LZS5vOnDPTwO6TXQiG6FhXLZmO3XfNiZJPvVngdB4dKQufkavM7Ul/CUEG9T6/2eVJov6G0m4tEZbYGU2JFPmlPsMj8LSTNyb3iTKH1hKbl6lsg+RdwXUPB8S6qDuivKfPSSTQFbxJBbEPzrAAufoc+k6s4WWW/NReUbwJ/hdoaczEDScJDVBLA2VO60DzvBBa5lnlksccbm9BjPaFcl0idh+SLpZu6brKDJthA6/Rt9DdyXqD5uZ00jNhdNp1yqQvm12kDTyVIe3BU0V9iJLrgHCyG3tFNqFcWy8UKIKFgzyNmyx0zp8Rm+3lvWaZ5uubuW0aFivDi1oOuhlbZocSV2A6VaI4Vh8tJRrAieuOFZbuL1u5HsyyLPWuN8UMU3OZ4kRfum6w2Obgr/E3LK2OjJ2GXd+CAN3QemcX8Uamh8sxBvAjEqEI=
+    properties :
+     x : 34
+     y : 115
+     width : 498
+     height : 94
+    type : 2
+    code_elements :
+     type_code : 3
+     p_codes :
+      -
+        type : 276
+        enabled : false
+      -
+        type : 277
+        enabled : false
+      -
+        type : 278
+        enabled : false
+  -
+    name : technical_details
+    identifier : 0x2874c13f1c95dc5d
+    internal_properties : CAAAAAgAAAAqXVF0lRba5wPIwMtsN9smuEBWybmUuPwiPCa3p8Uma9d+ZSeKHV5HrHxResRtzuaLbOG/NqBSFvgLWMfw0aMPRwEcw0D4WXxwp2w8c1c7ppkExyXaniLZwjgFx9y7BvvKPlhrHp7nJ9v7uz5lDusBpv16D3q83J5JOn03oVLn0VkbDxIxUNjGmwL7PDk6zdM6U/aNHqW7rn2G1hYtCTm97Nk+ZtPmJD7R2nCspOqgfZm9s5mrBCE8pXiThyNBCWhbsDMX9kzYpUPedrXpFTKLdZmtqDtEntu3C5R48bkWDuok5iSlN/kVreHLqc98nlOTtCElq14U1bNK0vY7OwqJQ3Qd8AR/iinh+Yko9B7mSt4y+Kb6Gohoxarh8MQPzmuLo8l5aoVdbn8VgiBLQPb26kbeLolP3fPNsTd1Xn7uoHjww/CyJXkH67DJGOCWvunxKauwp6ty6cxitsnNCyfDbKfKFGy5VfcJVkpvsm6PE52jdayLnuSl5neiabxRctWAUyTp7gyBVYjQ1ezgmR2HVBOuW55hvIryA4n3xklZL1BM4jET/3GSDQqm9QCeZh+D//rtiRho4CVxW2Y+/itaOP0Wuijxjqj2Rve6EMPm0gHvHrKBkItX8sjgcQ2CrVXSU5HwrBQMMcK5lwA40v1jblw9p6WL5MajHXd1AQvMDeC39PUB7OWxKrEAlCy5WL0umxpzzgVVX9flX4yTqEOKirxSduuslwRfyTS3O/NtHc1Ub+ERLJZe+t/F++npaRN9Jxk8vJuQNIP0lajEBDTL0whLxM9ttIv3ax/A2r0VAFzML8g=
+    properties :
+     x : 33
+     y : 246
+     width : 139
+     height : 20
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1+
+         Open(Details,gsDetails)
+         
+        type : 18
+      -
+        type : 161
+        enabled : false
+ menu :
+  name : Menu
+  identifier : 0x3964590953b16d6b
+  internal_properties : CAAAAAgAAACCv199ARoPUfG3WAPSG9eefhOOjWMQrs8CrX6cGGGJPoSHWBq4PXhStOWc1YnAZMZ5+EFR1WTDn8CTOTiyLnXPpAR5X8rsRkPZrm1yZeYDDt4kRzDPLbUf4Sh/mD3kd1D8V2drCFLmjeQhgpw7GKGwHRga+ZdjSqXGIC3LD1RracZ230hOmUJTj+ABDW4IHrw4PflmVGgp8E9KnAf/gselRrzEY90l3Cr9N00QijFYYrbrl4qF4kdim1YX6jYT4ezQhbJsU84ENZsxzq+o0JVHYQ8rxck600VhGV04/ao=
+  options : []
+ languages :
+  - en-GB
+ popup_menus : []
+ message_bar :
+  internal_properties : CAAAAAgAAAC/J1/+oUIyg/8GUhgu/1OucAIoDOm4frLW8//L190Q/FKDO1zIU2PkOoWWd+wAvXSNAuGBF9FH4HscPhYD3cD5Iv0oTrk2vHaHsv2IM5Sn7wNLHhThntMqFkPluyuK
+ actionbar : {}
+ code_elements :
+  internal_properties : CAAAAAgAAACF2rLz9HdNK1CskOBshtrM0m3u7Nni38BUPbhQOb9aTQWtOUMMy378e95wQO4+qHzTE0qYSYyMR6gGddVg38kMwphUEhY=
+  type_code : 1
+  p_codes :
+   -
+     code : |1+
+      // retrieves the full error message regarding the problem that occurred
+      gsDetails is string = HErrorInfo(hErrFullDetails)
+      
+      CONSTANT MAXHEIGHT=200
+      
+      // title of the window = name of the application
+      MySelf..Title = fExtractPath(ExeInfo(exeName),fFileName)
+      // Return value by default when closing without using the buttons
+      MySelf..ReturnedValue=opCancel
+      
+      // if the database is locked
+      IF HError() = 74011 THEN
+      	LockOnDatabase()
+      ELSE 
+      	// it's a lock on a file
+      	LockOnFile()
+      END
+      
+      
+   -
+     code : |1-
+      
+     type : 34
+   -
+     type : 180
+     enabled : false
+   -
+     type : 230
+     enabled : false
+   -
+     code : |1-
+      
+     type : 2
+   -
+     code : |1-
+      
+     type : 11
+   -
+     code : |1-
+      
+     type : 12
+   -
+     type : 17
+   -
+     code : |1-
+      
+     type : 13
+  procedures :
+   -
+     name : LockOnFile
+     internal_properties : CAAAAAgAAAC6lkRD7wAlEubxavA0zFuDccYLRZteszRaUxPzcwMrWcQnQoLyZ2Bp1Jz29yBlhwy7+1gKc5cU5qdnBEA/HaahP+uzkMxap/ROPskLyd8UG2H8SHu04t/6+gVlBDF++ndx4PO8ybb6+k7HEE+MBWjpnC4xpFEaAIsYQ4vKbvmxSqh/jkGJwTlU5/YQ4WF0j+gDukY/
+     procedure_id : 1762245830556900445
+     type_code : 14
+     code : |1+
+      PROCEDURE LockOnFile()
+      
+      i is int = 0
+      
+      // retrieves information about the lock
+      sLockInfo is string = HErrorInfo(hErrLockInfo)
+      
+      // if lock information is found
+      IF sLockInfo <> "" THEN
+      	// formatting the caption
+      	STC_Explanations = StringBuild(<§$0008§>,HErrorInfo(hErrFile))	
+      	
+      	sMsg is string
+      	sOneLock is string = ExtractString(sLockInfo, firstRank, CR)
+      	WHILE sOneLock <> EOT
+      		i++
+      		sMsg += StringBuild(<§$0009§>+CR,ExtractString(sOneLock, 3, TAB),ExtractString(sOneLock, 6, TAB),ExtractString(sOneLock, 4, TAB))
+      		sOneLock = ExtractString(sLockInfo, nextRank, CR)
+      	END
+      	IF Right(sMsg,2) = CR THEN sMsg = sMsg[[ TO Length(sMsg)-2 ]]
+      	nHeight is int
+      
+      	// if there is a single row
+      	IF i=1 THEN
+      		// deletes '- '
+      		sMsg = sMsg[[ 3 TO Length(sMsg) ]]
+      		// defines the height of the window according to the lock information
+      		nHeight = TextHeight(ListLocks,sMsg,tMultiline)
+      		nHeight = Min(nHeight,MAXHEIGHT)
+      		MySelf..Height += nHeight
+      
+      		ListLocks = sMsg
+      		ListLocks..Visible = True
+      	ELSE
+      		// defines the height of the window according to the lock information
+      		nHeight = TextHeight(ListMultiLocks,sMsg)
+      		nHeight = Min(nHeight,MAXHEIGHT)
+      		IF nHeight = MAXHEIGHT THEN ScrollBarShow(ListMultiLocks,sbVert,True)
+      		IF TextWidth(ListMultiLocks,sMsg)>ListMultiLocks..Width THEN
+      			ScrollBarShow(ListMultiLocks,sbHorz,True)
+      			// add the scrollbar height + 5 pixels in order for the text not to be stuck to the scrollbar
+      			nHeight = nHeight+SysMetric(metCyHScroll)+5
+      		END
+      		MySelf..Height += nHeight
+      
+      		ListMultiLocks = sMsg
+      		ListMultiLocks..Visible = True
+      	END
+      ELSE	
+      	// formatting the caption
+      	STC_Explanations = <§$0003§>+HErrorInfo(hErrFile)+<§$0004§>
+      END
+     type : 458752
+   -
+     name : LockOnDatabase
+     procedure_id : 1762245830556965981
+     type_code : 14
+     code : |1+
+      PROCEDURE LockOnDatabase()
+      
+      // specify the nature of the lock
+      Header = <§$0010§>
+      
+      // retrieves the information about the database lock
+      sLockInfo is string = HErrorInfo(hErrLockInfo)
+      
+      // retrieves the name of the database
+      sDatabaseName is string = ExtractString(sLockInfo, 1, TAB)
+      
+      // retrieves the name of the computer and the name of the user who locked the database
+      sLogin is string = ExtractString(sLockInfo, 2, TAB)
+      sMachine is string = ExtractString(sLockInfo, 3, TAB)
+      
+      // if user information and computer information are found
+      IF sLogin <> EOT _AND_ sMachine <> EOT THEN
+      	// formatting the caption
+      	STC_Explanations = StringBuild(<§$000b§>,sDatabaseName, sLogin, sMachine )
+      ELSE	
+      	// formatting the caption
+      	STC_Explanations = <§$000c§>
+      END
+     type : 458752
+  procedure_templates : []
+  property_templates : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+  original_name : Blocage
+resources :
+ string_res :
+  identifier : 0x3b04f23a04265fc8
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+  strings :
+   -
+     text :
+      en-GB : Data of file <
+     index : 3
+   -
+     text :
+      en-GB : "> to which you want to access are currently locked by another user."
+     index : 4
+   -
+     text :
+      en-GB : "The data found in <%1> file is currently locked by:"
+     index : 8
+   -
+     text :
+      en-GB : "- '%1' user from '%2' project on '%3' computer"
+     index : 9
+   -
+     text :
+      en-GB : The <%1> database was locked by the <%2> user from the <%3> computer.
+     index : 11
+   -
+     text :
+      en-GB : The database was locked.
+     index : 12
+   -
+     text :
+      en-GB : The security mechanism of %1 was triggered.
+     index : 15
+   -
+     text :
+      en-GB : Database currently locked
+     index : 16
+   -
+     text :
+      en-GB : Data currently locked by another user.
+     index : 17
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe

@@ -1,0 +1,217 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WIN_Integrity
+ major_version : 28
+ minor_version : 0
+ type : 2
+ description : ""
+ subtype : 0
+window :
+ name : WIN_Integrity
+ identifier : 0x2874c1481ea2ff17
+ internal_properties : CAAAAAgAAABf58j8UA/qkjp4wiv8ALhn+9xy1JAbfy0AWWUCkm3td+bwTzQLlyg+i2TYxyRZpST+L3Gn2CVApBsCEp5paaoJWjhDtgDwOLWJy/mrtZNt0xB5s5rjGAcCtBfXBvv5o5Gr1Lt80O1pgCxZMjHkijJu/45Or9IMCbQi+cRYsxQ0z46wMSD3k7zGd4mVH4/YJysDOoNCFUh+fJIuJsL/PeTkntnZxImnxNwZ7DSwAETzAL89gMgmTKqg3PIOHC6pVVjNdoE1kx00ckJ1FLodKusCd2QlJwlj61jC1qSM9UnXOV0ElYWCcBWCB7T3AeFPJtdRDCVVuFD1/xdwg7YWu9MoIL6zAUf81MApV/jUKCSR4C9ryE4bGi9qVVquU8SuZJ3eo6SNoy+GtY09Yic+lj+9GyzGled8qqPWN35gjTZS+QQiLsni8xFNyCbk3+IQnW1LDmwSY16b91FyhgGAoI/7qs/kqXrvTQ8d4FL3FoqSFR+BSCLRboh9zbE8pahT4DfE2MO8+2mvXXaeCIW97//o6FZjw+l6DymU8nVr32u4qloO3PHxE/loaraVvlbzyEOtBzXMNQiP9hRajj2BI/9HKoDG90Lrq+sTF+sW5f2Q2snd39t2jYIGpJHWw989+ywbrDeADaEIgXvC9kU3wlkKj/WdafsHFRF7swChfGjrlvF4s3TdyUkH7dFFaczsFh8+YI/FIP3r6SSDpnJE0R77uE5qoD5tf4b2WYi5zBo0w9p2yjdcLS4Uds7YbvdBkxsXWrLHChK/CRLGUhznE67XaCoOXT2kWTJbONnhAWxARYjK7/3UZEjPfamyIFoP2Dn9sfJhuul//dc=
+ properties :
+  x : 452
+  y : 278
+  width : 537
+  height : 201
+  widthClient : 535
+  heightClient : 169
+ controls :
+  -
+    name : STC_Explanations
+    identifier : 0x2874c1481ea5ff17
+    internal_properties : CAAAAAgAAADPgNQ3cV2Qm4e61UX5ZDQlaCz/lBLpt4UMQRPH7nPrhf4K3xggW9A44EHTEP2nekImqVIq2XUqVk8V5w+Jx1749bjhDRK+Q25YQdXzQeBmik5Dib3+JCazxCk7ewpV3rYgWqyfH2DAYQzPpXS7HfKjQZ9ShO5+vjpCp3+H+WsltOmAwwBtBDLV6ye//BdoIXFGTMN459ypQgQASDzn0OKWVf8aAHWlxxQp8D/oSdYHYmxyqcizeebIgR8WiK7DzIjcVjqWhO+M8+R7yZ32eASfJ+0WWnitNHsKBwCFvtXmcqyx/O9C7nkJ9eT43J3zQDXlHtE8ib9Qjd0Vz4bnbaoVYcTX6n6mAa582hyfGKeet7ojoHZVTTpULSO4sPJtB4Vnr60HgfRkMBZtN3cVSg4qc70gjB3rKFlCzyOJWtKGSpLPhZmZS8MM2Q3G4flGM/tbf1fba9SHtoAteFqLBXYLYpuvzfdEPM4V+Q1DTcPj1qpBYe7U8ZpQDlu4+vrd3BCSjCeLdsSfw8VFWfPOegSYywY9n3WXCZsQiHbV7RhaBMIEDa0972/2psz6JB81SKoR6JiHaz4JNQCUfOhQKGbJeLwmttIN9J1QTh+Vx/re4xw+MSZ5+VXWmevpb82GIoZh67fQE+TSwg0l
+    properties :
+     x : 34
+     y : 75
+     width : 467
+     height : 62
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes :
+      -
+        code : |1-
+         
+        type : 14
+  -
+    name : RETRY
+    identifier : 0x2874c1481ea4ff17
+    internal_properties : CAAAAAgAAABZILHHu9Gf2BJFIsC4CC5TZNKJ47H0qMnUXkE06SaoyuYlXm+f7zhBmYHReEAph1rj1AsxuDf2iToeDkMqee+AZXkN85Qiuzt4cWj+KgXd6f40XMlXXNGTL1bjUV4Zxwb/AcCSUaKLuFf4jV/5bl5C48H8ScKPH47vVIkGsJAYsniKKUPI6CNoUaSYrsOpC9YOiZrz7ffKf7VZga6NNopysAP58shskdda4R3Xjc1zsOCACvjo/vBectp0H7nP/cRh2/8lN87lC9axD92mkaaa7ulxMM5dU+yf9qoC4LcmWWg2/W/DLYX2OKUPyK3I3zZ6+b9Ca4zxFfvXrRlnvFBB8qlYcs6fJZA/o/ifKN1/L76q/9KyoTB/lZukJ/bzUexWS5MMYiRc6YAIrgCxjzqLYmp/stnbVKER9YGozMpNhUTnyA9VBDGTBafrvqfXw6mjK2aYNsCUHeQPQBht80EgFszsMMoTfy99Lz5dvvbRYnEkoX4B7EmmK9ipXSkN3TzBhPEoL2WZceXgAIwqUWibyAlSc22GBTDphtH21AqKuM/joTNIqjXEeVHNXFUF6/nqBXqehXDT0i+sbSCzr0k1JCJ4fwyIfyWfTUzaF5x/Yt+I++XA+QyxrbL+/yIVSbEUL4uOrZ6+vnAmiYUN5e+wqc/7mQqVWy0TJzeUe2sxbLN50KwYNDxnUE5cz9zkhGvixhNvQt+3/dikQMFHI2rG1WA/mZASfqufZQVF2PoMOWQSfrersTHa0YUArpRc2+8XxTVb3JiclCl/K0VrhRXw8bxRJ4L1UEn+CqEZ6uSw997oB+ucYyob6Zk1fxrHbgO4rjoy5pOqErU9wlWTlewr+1w8MnO3Qkt5XF414lSu
+    properties :
+     x : 184
+     y : 143
+     width : 80
+     height : 20
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1-
+         
+        type : 14
+      -
+        internal_properties : CAAAAAgAAACoV1QyK1UuaCNO8zZSB8RvS1iJdYw1zFbBu/+DfRe2F+8o/Lk9padPbhoLcUXiN+TH+IdnW2kZkHOMbllzDBffNB9mk2ZaFyypBV5MaXwtoVpxEOkRmem3axlrWhCr8rUO1Yd7gtnCS5hxmQ==
+        code : |1+
+         // closes the window
+         // give the control bak by stopping the current process (identical to returntocapture )
+         Close("",opEndProcess)
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : CANCEL
+    identifier : 0x2874c1481ea3ff17
+    internal_properties : CAAAAAgAAABwtKOmVwC0bSzpxI/9vOxOYaLcZPi9sJZjUOTmT+aVa5rHLMF5vrznUBiePl+8BBEsmHKXISXDQvONA4WvRyU5YlcF+uyRcoEhR+IcCnrz4nNT+k7wpEhGiUkqU+lZ2BMEgcv92tNJTnPTM8V+7DJylkSatx2vmzfYQamCwaF9Fds8YHTz19RLGZPhb6BGjhFXF5HwqjC0TmSnlkaxwKWPQfNZV0cA3Ww395TmqDpvNrTBXsFjsr/8tRPLVX6V71lPP2UJSgK9DD4V8aQBHx96DqMWeS56t7/CLek6+9cgE1xG8EA+iggtpzGx9o1wvgDqv6WOYY3NuOLCD+ENQFrsqqknCdK1pLmI4oq60nuvVvM8VQn9cpzeaoQxLmCLYYd8ILInGtxUiA1iiEmJE0CTmz72jkpkmn5tvlq1Od814OTR8wZuMdXh75r7mQGbXMjZnGDC6vlhTpJiUvENudTbvEX8/LAcZm4lMKJMjAI4kYdz36RdIyC7iwPxyi334CfxaUnEDTIu8r2res0k5Tnu1tjEZaWVdPmVZ3VfpORr8e1QjfMmTZSlj5ql38e5WJz22O7mH2v013EZq7eD+fhcZi/Ywz7HEnKxMF69065yg3dlv6V26hmU9WPQQLKjBJQS3Fv666MHd8QFdaYV5+qRgVadi8Ka+mrpsK+v1XN2M+HcIna4uw2CJkf4MJZIU2yozZk1KhN4drGRwyviwjTAmH4MYIUMMjnkzybym/F0reHSw36keWP0aA01Nj1Nhw+K9QudiLXcWKJtzK8k9o1c0EAG5t8bwvvrBGiVj0U6VbmCAM6JB/4RACfk869IqJ1rGt3DXeuYSKDpHVdc9mZZ4ATzr+4+uokUiQRebQF1+g==
+    properties :
+     x : 270
+     y : 143
+     width : 80
+     height : 20
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1-
+         
+        type : 14
+      -
+        code : |1+
+         // Closes the window to cancel the operation
+         Close("",opCancel)
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : Image1
+    identifier : 0x2874c1481ea6ff17
+    internal_properties : CAAAAAgAAACgdmP344AhlE5AqcOiNXaEE8VTNESh3wrD0OFBQyzgqU1JF9aQ2CI1EDyPWtsFrQ8eXcBV1IvTpjDgory5MAvAA4dMOIXX94i1TSqV58BSfDpR53qZMuH0rDAnt8+FeAtIktCdPkGydlnWTyyF7At25HfcgF2xOFGdh+Rj4mShcS5cuOndJ3DgTI9BZ3iJgNwdR8IGj27ZhwDqxAb9Q/hiIoliOhblfhY/yYpBFbwyhQTkJSicMhLIuiKF99y3L8QSKiX5xo1/WU+TSaGkifZftK9sHoJ8b/gr2bvss+lykL+qLec1LOBfUkeKgLvQG3OR4zzXiP1GllFV2rXeUFsCOkAclV9uaCZdcZ4p9RCKTMxCjN3XYtnaMqMJoZCR2JVcTohXqpeDEH3u/Penplp6QewidwrLY3alux0NZGJBW2dxmQngspEg37TSeCMM3mOZYTtRiuQyajOtDj5aLjJkJBnZDiHxJMLEk0BKonQVMCNnxyINXaiVNDUUWQbrLfTg2PQyyxQdi8bSqF/N5lZydjldzPFr9t3/uirxsVWo3KztkqIiqcI6ePAFSlSnGgQHY3Mx40VkaTnRJtYq6qpSinW6vbs0m8HJDI3MZyMCOYnY7z7sU/05aATIcGbe+y5c71IE1dGcdgg0gR4OcsEzPhX1fV0y419NzlHAjCMyOiIOX6GHEQxIw16XDLbj9g5rRFP4K5f5Z0BicsTndUAQOkhMkXXCFWnQ+9JXAZnQXk2bQ71VCTkxAQBznq552XTB91Vkak7Nk+7k6i6kkoTZkgNMgDvmaAdjFI2owrLTwh5/t4b2nOHOdkGceMULkaLLNnQpHm56zIwHD/n2wMAX8AP19cgNFWmRvLX+eF/hEV2BOqvA2tSdigfRg5zJOjkNeIm5y1/RoYorgx9REU+M
+    properties :
+     x : 28
+     y : 1
+     width : 63
+     height : 63
+    type : 8
+    code_elements :
+     type_code : 8
+     p_codes :
+      -
+        code : |1-
+         
+        type : 14
+      -
+        code : |1-
+         
+        type : 18
+  -
+    name : Header
+    identifier : 0x2874c1481ea7ff17
+    internal_properties : CAAAAAgAAADTvaEr2ZQW6G75/7wHvDVuE/iiiP/iILhLTYBWiqHfL3BEbR/IRnx+1naKXeavJ3gc340HYMptOWLFTtcsMUwkkXJTRIpwtE6CiyCeAaxfNmTwQ5BoDcT9cmgiet4i/NtR6fFsj3/uuAlY2Z2hNg2YuNOx3yChiLYUnQYVj8le6oW3bUnjgbz7MJeQx6aKUm8ugq2nYqunzpia6HI/96rtGIxHNZmUza3AjUwTohYdvrMmGVfYxHTaAncGvqNPZJ685O5vYASA7MELyIPVnZXfBxr4f6MO9VYL5yZVZENEjrzDnYbe1l3+U8eLmd8fo+8ZkQxUuWbOrUPB//oxE/WrrT5UUrt7X+rhPgeer7zd8MNtap/Fc9LFzfy2Lz5zSi0Nin114rBmE0h06jMBjlu2JOqpR3xNi++y4ot62UqwalR4VtUgS17VVBgUi6RR9x7JyS2VUrTg8TCAv6UiJFj6yxgJWbebNstMDInjj9Yc
+    properties :
+     x : 106
+     y : 6
+     width : 395
+     height : 53
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes :
+      -
+        code : |1-
+         
+        type : 14
+  -
+    name : technical_details
+    identifier : 0x2874c1481ea8ff17
+    internal_properties : CAAAAAgAAACKPTFUdTY6Rz0QgHOYt0/SaPiKcQHMDJQifDbAZmuozRGcL1kwSmKk1UMcMxkel5cuF3Sqs81NMUWWu6QB1pwQvvhbhplZ4FMVWqEakTE4Y3BW/DyN+V/6IRm+MtPGxUJ3Y+1i4C0e0uz6ZvuOsZfOfXDlnltlIzHecRCofgMU5rTuQsXqWeedSPnCCdIn/mTxhpXITyY6KTrFMS+yMmoeswwl8Zi7VzUaFYvh3YftGniM6jDkrdjnJtOGJCxOJp1SL5o+792wjTvm/u3R3QqTrcElYIN85vN/A+zgqRFeJjLcDgwdH9E9JamToVfkFjtr/PmdU1bcTVsiav4T0xJhy4yl2JwnQnPRYbEwiB6ChiZyRCbaIqyQLUppeDhnOh/L2/3xMg2hPlc12uBPiMJ6+r50tKt9+5HvV0V7uNQcUorawfYEO4fVJW6XrqIcTGvLuyEWaRnoZ17oLIdVkz87ZL/S/BTRbc+xrrLnSsaXOyVLrcSDZqztnl/68SQ5ai1460wR1mTZbfDo3cRYEcUPXDuGUzaJ5LIKCyF/brEXCYgkyqfPK5N0k9RWG7DOpMkrx8KD5VSakuu3E6xGzumUyAXmADyVOIoEIP9ImEtsdL0TynTpmJGlbGpg/73yO/d+h22a9PziB7QLmxqsToeJimg1XdFXqkT986M/1SeKn5C/hEfdeFsvVJdgdswR+mNIuXsOAXJ7mjNLsxZf/MU40nzmoJt8dapR06w1k8OT142MzwelIIBIIH1tMWVtU1krvW+mZjEahtFer0J6Ph7R0RYtxlXnHm3ltWHgOl31YDwsj2g=
+    properties :
+     x : 34
+     y : 140
+     width : 139
+     height : 20
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1+
+         Open(Details,gsDetails)
+         
+        type : 18
+      -
+        type : 161
+        enabled : false
+ menu :
+  name : Menu
+  identifier : 0x3969cad070603db4
+  internal_properties : CAAAAAgAAACCv199ARoPUfG3WAPSG9eefhOOjWMQrs8CrX6cGGGJPoSHWBq4PXhStOWc1YnAZMZ5+EFR1WTDn8CTOTiyLnXPpAR5X8rsRkPZrm1yZeYDDt4kRzDPLbUf4Sh/mD3kd1D8V2drCFLmjeQhgpw7GKGwHRga+ZdjSqXGIC3LD1RracZ230hOmUJTj+ABDW4IHrw4PflmVGgp8E9KnAf/gselRrzEY90l3Cr9N00QijFYYrbrl4qF4kdim1YX6jYT4ezQhbJsU84ENZsxzq+o0JVHYQ8rxck600VhGV04/ao=
+  options : []
+ languages :
+  - en-GB
+ popup_menus : []
+ message_bar :
+  internal_properties : CAAAAAgAAACCOnrbTB3Bvsrhf73rKviDK7UDwayfanLCBx3l7Ui3xCp7B/AS26cQYqUkja4MVUvkEVDWWpy6DVoLKxES/O3bM4bhTTKXLSnKdTBdyO/ChLaGwfEGseA5YR7A4BC1
+ actionbar : {}
+ code_elements :
+  internal_properties : CAAAAAgAAACvPJitzjkIkAjMOFw4qmYAxl0+OO2aS/jQfeSkReueYbElc53KUWj6JbhWOtSEKpYtdfQSHzK2bcKAD1v2gn9GnPI+OPw=
+  type_code : 1
+  p_codes :
+   -
+     code : |1+
+      // retrieves the full error message regarding the problem that occurred
+      gsDetails is string = HErrorInfo(hErrFullDetails)
+      
+      // title of the window = name of the application
+      MySelf..Title = fExtractPath(ExeInfo(exeName),fFileName)
+      // Return value by default when closing without using the buttons
+      MySelf..ReturnedValue=opCancel
+   -
+     code : |1-
+      
+     type : 34
+   -
+     type : 180
+     enabled : false
+   -
+     type : 230
+     enabled : false
+   -
+     code : |1-
+      
+     type : 2
+   -
+     code : |1-
+      
+     type : 11
+   -
+     code : |1-
+      
+     type : 12
+   -
+     type : 17
+   -
+     code : |1-
+      
+     type : 13
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+  original_name : Integrite
+resources :
+ string_res :
+  identifier : 0x3b04f2c173146e15
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+  strings :
+   -
+     text :
+      en-GB : The security mechanism of %1 was triggered.
+     index : 2
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe

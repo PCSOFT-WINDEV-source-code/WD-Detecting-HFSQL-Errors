@@ -1,0 +1,196 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WIN_Modif2
+ major_version : 28
+ minor_version : 0
+ type : 2
+ description : ""
+ subtype : 0
+window :
+ name : WIN_Modif2
+ identifier : 0x2874c14b1f71087e
+ internal_properties : CAAAAAgAAAA7Oo+HrI9/d6ITB57hlO7/trF5fS3nf6axOQKA+SPJRIc7s38SWRyOIChWj5zK9Qc+vkLeUStt3pROqvTW8u8ulR1NDpQdPwerdOM1I4Jydb6PRpZZuzp0U10i1VZjDL57vv4sgbCgRBFK4eABm1ihZYzgR4YW88MfUUhTLcIf/90zB2sb3Xn+M1rFOiHBgcoADM5zEJR6NtH/hdK8JtAn5zvffWuAW9LIoq5IG5584ELmn924wbhvSlmfcxoKnzn/9N40d0/+JtfjgxEejoCiR8foLRkX0yVoZmGOvDnHWYj+DOqMY5k3H2n4qH+NMIA0tTbNi4LsnYKqgu0OMJfDuVOcolMrQnlZLnbWovZbVDUmYa2H4P8nx9/nx8J99Aojx/+nSx2qEwoiX6U9HdqqOA55rKrcK2ZdolVmzrzJFtEG4tAhG4kS7nm2pZYvqD+GWLELv1OuZbU+ItB6xy+uvU6wxbuottu8gAt5Dvt0jzachM5apYu8SzTVQP8Uw6o5SsW9edOb3hEAhJd4CPwmDQoN5ZLVO/NLNTgR0I18tuxVmjOYd8Qr2RGODduDLsjH4PnF0gnV3knC39LuAsHHFu0M/Kervjc6bVzEjHv5VO6F5XHzp1cY962IR+KXojibB7ogt6+jj2hBEq3hN6NfWz+3hCaTX2Rsnc2hTPHxfb8dfKwKeKgN6ZGuwNOaGCr338LA+gLe+Qbk2ufq7lHuxd09Bttdbr5v9a28ol1586F3QgZTacBHMHLFAk/D+3LRPgn/6TO662IKeVrEUIyiTbw2ZavDRhfBp7LupbYlCtnt8NFd6Z/wt9Pej0KjSPFY2uI5mmDo+wVJJO3GBh6OlUBOO/QgzSz4OeLXn/2d/28Gq4NhjpsR7CifTwVGs87qfIjCcKnpiEbqIobAdzN7OHckpCn/lRDgAVcRmkIYNs+dZwvpFgRHftRqiPOrHCg9
+ properties :
+  width : 546
+  height : 372
+  widthClient : 544
+  heightClient : 340
+ controls :
+  -
+    name : RADIO_Choice
+    identifier : 0x2874c14b1f72087e
+    internal_properties : CAAAAAgAAADID2++vlv8bHjX8X/8c/9C1BwQemTiQ1b6mmCQcOi3ZdYXd1Dvh9tJ4YISBVIntQ5sqiIjU5GQbMutQsyEWB46vebInUTpUZTFdiiLa90KROOWhT+jSj1tna0zJ+WZRcwONWkrJq5IypkoQybNKQ++0fqkoU8gCkS+PTGOoFZBYr5UFUdZkd9ih/6ex9Bpuj7I5vhD/xo16WTpQpV2C3A1AJIZ5UiMAn8jGvr/ogiVQ8b9F+OtCABCze1y0uupn79lLvbUJkZlZ3Y/TuEc2ENk4sERN0d61yf992S87Ee04f8aSTNiHCS73Sc51eJLybPu5AgMdaJTf7WabasajJmn8SMsieR47DBIdnBwn03ql/cPvimAs+jaCYR5RH2JvHdFJ2a0dFCMvibHXcvDST82blkZoCwsrtDfSLheYV1q8yg6qvc0H8YUb7V582JxZVxs8b6CyFfDOqPCv73sArdlfkqIC5wp5H31l684YIWyS3rU/EsAGBuLi+DzFOKUUZshybfGxIzVXFdTvjGmS4oSqwnyHGEwVOzKdkp58P6vGzP5s09PPl0lK1mMP9iIHUv6I9Dj/PUoQPYupCmiFqspIJSr7qbABNN6MHEwG5Jd/nWSZhkq0aMIpV/wiLivmJu3/3IG/d7y8ZGc7uxkANwBvCQSt+7S7AzlLRSi6yG9A+B2R8rHlerLZirQIelRzmapyyIpinAU70Xzdjc28tzsfILrWxmyX7xxm+5SCJXmkMWgOWT6q8wbqLTIPey0XuhsyI43gtoXcdN5VKyIKFR9wArn0d5M5poFwfy90ZpNnkpZQ8uh0Twq3zCv+LeRt1LzqIC9Ws8/cn2+wj9hB/wjPcAAkMQwwZlJPvLsS0f+Zi3NKL/hRuyQvfXlhB/IBO6O7YwNGF/36ajNWJEg+MiLVJi334brVaOCK0UUww4fjd/zlDbIh+hjwmaBRunkblbhCCGDTxqhPXxrILFwfZWgj/ER1VRvLIAutFtY6FmTKYP9vdCALatQmj7uTkPqk0Fsv/l9/ErPKmf58hRN187XdAHjus+i9WpA
+    properties :
+     x : 108
+     y : 136
+     width : 315
+     height : 128
+    options :
+     -
+       internal_properties : CAAAAAgAAAAX1sqIKC0UtscTxXvfKx3ySvgCERNi8/21jHmj8hF/r1+b4RCSS85CALjcN/YyVgxSZWFoZRjYZi2DBXlCLVt4b0LQlKQgoS3Ic/CWtBS7A0zRlabBqRzf35w/CrATEtToDpsE9JhNLUHLs+LKevdhmB6cmD6dqXKvd+O5ya9J7FH3BuE=
+     -
+       internal_properties : CAAAAAgAAABaYEQ1fgurMTKrOsPxABqsmrU2LKH85G9tfxQ9x8UbMH8LFWcXsrfBjdkmaOA3i1+TI/n3EXVaKFuFqQJwOmZnmNsAYtzhzCmW52WnjI5WPpmf1AxFTYLlVyXq+qQP2717QhTqeiIdle9IviwwHHUNoJtaGMB1i+RnVXxbWkAkVKx2suO8BrOYEcI6YzQUR5FEaKs01hbO/ljw
+     -
+       internal_properties : CAAAAAgAAAAX85pwMxKxWdvEt4H4vChW3TysyFTaqpQHGBqM/1ZCouVDchW1bIp8KotREWfKXGgwyp3Y9rfAXL9xQm69ZK8CPhKMZf4Z/fTRVSyvuGG8w++Lka6+DonB3a+JO1iE3dyh0Gsk22MSiT3MDV0mp4Fc6DnK8TRWaeKZO63qKtX1c3enWsJmcyzetPdez0RQvUHF1eZuYzOE
+     -
+       internal_properties : CAAAAAgAAADHF7k1kBs+etI6VvMiBciw3/XOLrZsUba9VdDbIbVXyqcyY+tUThAQTj4cTUxFXeCjXOYO7BwdKa63hA5s85ywjPDNqVpYmTUcsoriyW1GQbm9B3XvXs2LdxVzbOtCjyoL9z4E1fTDEi5X1NmEOlCzdQofd+zNIlg5u3HRSoFRwctnjWZ/pKnK9+rl3iG6IA==
+    type : 6
+    controls : []
+    code_elements :
+     type_code : 6
+     p_codes : []
+  -
+    name : BTN_OK
+    identifier : 0x2874c14b1f77087e
+    internal_properties : CAAAAAgAAAD22Ei5k2o9uOlHSA+zy/DSY8TN5Qy1YdTQvVFb94//gzD4ESsqTPpjRuWJ8XRTGyFID+3RHU2xZsI0rDfkOaknqdr0tXZsUWxDqwPu8+q8CNV0tSBKDfUTpa7OY3583u6a9EVfsfSDIdFwudCx+JAUDleWBc82SoY2yggNopEDcieHdcVSpRyHstfsKNSgZtoG/N+B++kD7RhtwH2mmqF4i3KN3qGOKM7bNoB7pAEqycLz6yzZu4uNLM9mWkm9Ipa48eem82u3HuIqlbdmgYh1W2aXmejVJIsUkXq6ZxAYOTKIG0yCKeJ+7KUJQR2Hi5XOBq9Q8a/qLcB7gKbtfNo7LjSE7mIYL/UVo4M3KwqX5Ol7Vdy3JX7dfkCg/vsGsvAcMcj8kdTmlNHEMFHIJiU0NEbouCnA14j122IdCbDGx9oW86j4DGcw67yrwoRCijk1s+mvXTBlLFuN1aF0HMx5GTeeHgFsy/AL7tcyd/xdHsYQLfDGx6G2vW+3h0PsVvAKFj1zVzGLuYx9I9FQgFSIWjRNymmS2qmZP6erHNfjeHhhgdMy90mQXFSPvffFtW4mHOpOgQwF7W2/Yc8P6fkObbcYbxe0uFnIwDiAF72JLA7Vf84ICAP4ye8/vPv7zQmHlnATsSJmWonhq7/2/PqaxWFgIr7xIvM91pFznOl1Hw9zZQ/jrqDjq2SkVMywXpqu5hxUcVAtHbM122iexA9roou4rqFoUoiW9SIj2SFM187iRM5MPA8KRXL7VPqZ1/obbFnlF/yukBAouBYksV75lfsVxaxmjTE3NX/irBwma8fJAYEO3K52Z0vhPjJhr0fjQ2zhQU3LbJm56b/wrO0VY/Id1xjEWFV0YGE2qNId4I/gvr90n2638DpCXgeq3pxhx2Od0DjQInwhTQnKxh3hW+GJ/9O/ZhNbU0fXqnzlPd1l
+    properties :
+     x : 445
+     y : 294
+     width : 75
+     height : 24
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1-
+         Close()
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : IMG_Image1
+    identifier : 0x2874c14b1f78087e
+    internal_properties : CAAAAAgAAABFelDfKDboI7bfVxtYwsRmz7om6lbwHgsxI5sEQIE2AoDKE7M1UfTda3i/Tvcc/whF//EM1c2Wd3GPgsNKvOI49i/0OnvBSSWkyEvXiE/GmfY9glsgNC7VqiNa23HNSUVkbq3IBxGiRm3xisSu3wnry2l4PTeCsLhDsfu2T9wllLYJlo3/BikIusgn7DvJF86DdBRHdBmzg9YFMiYbdZdUGhoB0EvL3ivLPb+/Ct1U2inJbr3Y2nSs4feLQn1JSOEhULHOpqJe41y5OCipEL6X2w/8J683GHM30pqxhj41t0gBENgtcM6J3Fa0ZFqZ1MZPrORSsfzQ0XNew+/K/B7vdQ0kAk5ag6Q/26iGrTcqJjUJX37mg7Y4mtuOI1skHRZPVVAFGKcKANkcDWr6yfREJutxyrXC8dfslo8Axk8wr9B2pI+tb/g5aEbO7odmPY+2YYJtCGtcUU0b5VRDRpXibY37SmPIKLe63/74YRWyBBew2QqV0QrjIBx8oWj4acplVyu2vMAx2WkjrKr3m+1TbN6dplFzrRLQ2INdk/hjn/YTHIuwQbAfGIo3HjQYlS1Zz44X+D6zXYs5ku82CXiR9P6o3GnFHvfFHYCKobPQxGFHAhwJtU1UHcgr4aS07+/S9RZaMyss4wwEAq/GCsqWvafQ/NkHJEgvxLvrgt4ri+RJGUksDNEIVRYTMuSOBsd2wwE2heFQnJO4WQLAvTHBqxyDgDg/qMeoqtSGA/YdK5uBuqQN4S63tKzPOJPRwjjR/lfUu8u+qS/XB0uH2AKAzW+orkkrzO9FanI3hC9jbZGj6iK98IxSVlpBZXsuzL4Awd28bNjdO9i7T9N3tBO7rHwpkr4JRfTXv9JvFCZCmLk=
+    properties :
+     x : 6
+     y : 6
+     width : 96
+     height : 68
+    type : 8
+    code_elements :
+     type_code : 8
+     p_codes :
+      -
+        code : |1-
+         
+        type : 14
+      -
+        code : |1-
+         
+        type : 18
+  -
+    name : STC_Header
+    identifier : 0x2874c14b1f79087e
+    internal_properties : CAAAAAgAAABA90pRK38kQl7VY9ciuUREOEAKm1m5PgURL92CEt9ny174iD3O4xIi49tfLs5IRuDYk+SPdLRtzR8tZLyun6IYArZuC9h0qCDf1d3Ff7HHkJ0dwjsW8/85NZvW+RKy5cTbYye+87KLa6jj+Z988KcXSdheLfCDXFAOylOlJYJXbZIiJXHA31m53IC6wiBZnS6a4nfuySSkwcZqy+I6f8mq5aJyCpRQkFEpX0QamqSLJTzR/9C4ocEyks5KZl0o0pVuq+rX6drpUuGgObFFWIEns0jhMxBp2wd4RGN5/8mN/Zg7SYeUeHH7in+o3IzUgwFS51antLSxB4B0T6Mk0jGz7JvdIChgoAS5nI20iL7SFu5t0S9UTGloGnIx4kFqGk6A1WqOBN0GRSE5BAboi6q6HrSx3Fy4EN3RfIxkMW4YlAwrpw/LXdYKq1vREnzQ2EO1dP7SXiVtjamriXDddS3O9RLaWlsrytMdKOJwhUehEOiUmJvm1v5NHOtgv32FOM0YObsIwAzs+wLvzDAXZcvZ+5LxWRM9dHzUdiZjz5hAHCpc4MvxufjFX9zwExDBx4lJ4/fJFCoNrO4uASptni7e1sIBqGqPTxi37CvmIAT8bXJshjYDKHID2hMTF3e5TeXy3oYaMJvUGorfn3YKoffGdbE=
+    properties :
+     x : 108
+     y : 24
+     width : 430
+     height : 99
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes :
+      -
+        code : |1-
+         
+        type : 14
+ menu :
+  name : _Menu
+  identifier : 0x2566fb7e178fccdf
+  internal_properties : CAAAAAgAAACCv199ARoPUfG3WAPSG9eefhOOjWMQrs8CrX6cGGGJPoSHWBq4PXhStOWc1YnAZMZ5+EFR1WTDn8CTOTiyLnXPpAR5X8rsRkPZrm1yZeYDDt4kRzDPLbUf4Sh/mD3kd1D8V2drCFLmjeQhgpw7GKGwHRga+ZdjSqXGIC3LD1RracZ230hOmUJTj+ABDW4IHrw4PflmVGgp8E9KnAf/gselRrzEY90l3Cr9N00QijFYYrbrl4qF4kdim1YX6jYT4ezQhbJsU84ENZsxzq+o0JVHYQ8rxck600VhGV04/ao=
+  options : []
+ languages :
+  - en-GB
+ popup_menus : []
+ message_bar :
+  internal_properties : CAAAAAgAAABKckKTpEU5lvI5RxXT8jDL4/27iRTdYWrOLCedgPWJgCbzb0CUAxeo6hXWo6AotXq3NJOzmXNxiiV2mMxtW+LQHW2u6JYLsbXyLXgVgCcKTP5OGSnemcghGUb4qNj9
+ actionbar : {}
+ code_elements :
+  type_code : 1
+  p_codes :
+   -
+     code : |1-
+      
+   -
+     code : |1-
+      sFileNameInConflict is string
+      sItem			 is string
+      
+      // File in conflict
+      sFileNameInConflict = HErrorInfo(hErrFile)
+      // Item
+      sItem = HErrorInfo(hErrItem)
+      
+      // Error message
+      STC_Header = StringBuild(<§$0000§>,fExtractPath(ExeInfo(exeName),fFileName)) + CR 
+      STC_Header += StringBuild(<§$0001§>,sItem,sFileNameInConflict) + CR
+      STC_Header += StringBuild(<§$0002§>,HErrorModification(sFileNameInConflict, sItem, hRecRead)) + CR
+      STC_Header += StringBuild(<§$0003§>,HErrorModification(sFileNameInConflict, sItem, hRecFile)) + CR
+      STC_Header += StringBuild(<§$0004§>,HErrorModification(sFileNameInConflict, sItem, hRecUser)) + CR
+     type : 34
+   -
+     type : 180
+     enabled : false
+   -
+     type : 230
+     enabled : false
+   -
+     code : |1+
+      SWITCH RADIO_Choice
+      	CASE 1
+      		RESULT opRetry	// retry
+      	CASE 2
+      		RESULT opCancel		// continue the current process
+      	CASE 3
+      		RESULT opEndProcess	// stop the current process
+      	CASE 4
+      		RESULT opEndProgram		// stop the program
+      		
+      	OTHER CASE 
+      		// We should never go through here
+      		RESULT 0
+      END
+     type : 2
+   -
+     type : 11
+   -
+     type : 12
+   -
+     type : 17
+   -
+     type : 13
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+resources :
+ string_res :
+  identifier : 0x3c60f95015bfcd2c
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+  strings :
+   -
+     text :
+      en-GB : The security mechanism of %1 was triggered
+     index : 0
+   -
+     text :
+      en-GB : A conflict was detected on <%1> item of <%2> file.
+     index : 1
+   -
+     text :
+      en-GB : "When it was read, the value was: %1"
+     index : 2
+   -
+     text :
+      en-GB : "The current value is: %1"
+     index : 3
+   -
+     text :
+      en-GB : "You want to assign the value to: %1"
+     index : 4
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe

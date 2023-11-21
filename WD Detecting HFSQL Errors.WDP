@@ -1,0 +1,236 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WD Detecting HFSQL Errors
+ major_version : 28
+ minor_version : 0
+ type : 4097
+ description : WD Managing HF errors
+ subtype : 0
+project :
+ identifier : 0x0
+ internal_properties : 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
+ configurations :
+  -
+    name : WD Detecting HFSQL Errors
+    internal_properties : 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
+    configuration_id : 7382975130800276051
+    type : 1
+    generation_name : WD Detecting HFSQL Errors.exe
+    version :
+     major_version : 22
+     minor_version : 37
+     internal_generation_version : 7
+     autoincrement_version : false
+    icon_filename : .\HFSQL.ico
+    language : 2
+    telemetry :
+     status : disabled
+ elements :
+  identifier : 0x4ac601ad002776f9
+  elements :
+   -
+     name : Global Procedures of WD Error Detection
+     identifier : 0x413c833c000fc8ff
+     internal_properties : CAAAAAgAAACc+vQgn8Rsf8icgy9hAiAJ3k/V/Xwceb/D39iLi7FjXadv3XiVqzZ3lY8J978xyT+JiQ==
+     physical_name : .\Global Procedures of WD Error Detection.wdg
+     type : 7
+   -
+     name : WIN_Duplicate2
+     identifier : 0x413c833c000ac8ff
+     internal_properties : CAAAAAgAAADiWNrO/aoCHTqK/QUfGRrveCuH75jw7vngIuMKQBzwAPTqQoOfoSBhg70nkRHPqx3nbw==
+     physical_name : .\WIN_Duplicate2.wdw
+     type : 2
+   -
+     name : WIN_Locks
+     identifier : 0x413c833c000bc8ff
+     internal_properties : CAAAAAgAAAC2nJ6CIR4WGSa2KdF7RlajAF2/NzoTMSeVG3ek330XKZ8TddBDxUwNf7kjnWWbZ1mjow==
+     physical_name : .\WIN_Locks.wdw
+     type : 2
+   -
+     name : WinDevMessageBox
+     identifier : 0x4874bc0b064d5e2a
+     internal_properties : CAAAAAgAAAB/2VWxAr9v7MTg2xF0wNGFFgkYwgLf6vk726qyfd9YQl9eSEsReLEAhgLN6tU1gmn6
+     physical_name : .\WinDevMessageBox.WDW
+     type : 2
+   -
+     name : WIN_Conflict
+     identifier : 0x413c833c000dc8ff
+     internal_properties : CAAAAAgAAACX8/8jgP21tgHVyPBaJ3PQ0YAI4I0uMLC2MaO/BibsfExEKqtk5G0sXtjCPsY6xjqCgg==
+     physical_name : .\WIN_Conflict.wdw
+     type : 2
+   -
+     name : WIN_Tutorial
+     identifier : 0x413c833c000ec8ff
+     internal_properties : CAAAAAgAAABp5VG1ci+HqLdHTmos0tkin9gqShX/mRKd3D7jh4WRnx2T+0rabvOy0Eq0DJRMNKRs9A==
+     physical_name : .\WIN_Tutorial.wdw
+     type : 2
+   -
+     name : WIN_Integrity
+     identifier : 0x464c507a01dab9b3
+     internal_properties : CAAAAAgAAAAiGBoOverC3eRSeOZGOrq6Hm/FXYPoZIz565IY7l03mXtbWFGEfX2PxX1nUdEP690nLw==
+     physical_name : .\WIN_Integrity.wdw
+     type : 2
+   -
+     name : WIN_Lock2
+     identifier : 0x413c833c0002c8ff
+     internal_properties : CAAAAAgAAAADf3uvHEnh+kXpXOS+vpdUSSac3AuLmOfQn+sJa6H9C+XfsxIAAIHAIhyGcjKuSr4GDg==
+     physical_name : .\WIN_Lock2.wdw
+     type : 2
+   -
+     name : WIN_Modif2
+     identifier : 0x413c833c0003c8ff
+     internal_properties : CAAAAAgAAAANCWW5BnM7ZHMTCraYkZliVxbudmtrtb6/gZWkzEBS3tbOvAkeIq/uHAbwyEi4QLAYGA==
+     physical_name : .\WIN_Modif2.wdw
+     type : 2
+   -
+     name : WIN_Integrity2
+     identifier : 0x413c833c0004c8ff
+     internal_properties : CAAAAAgAAAAZdcHF4l/X2Od3vnrcNumqrwhqypXd4uPc8Dr940nNM5kHR36qXuOiwHpkXCTcpBT8BA==
+     physical_name : .\WIN_Integrity2.wdw
+     type : 2
+   -
+     name : WIN_Password2
+     identifier : 0x413c833c0005c8ff
+     internal_properties : CAAAAAgAAABO1Kb6SXY+cX4eAanjpl6LCHXHX4LKsOKRt60D7103mX9jJRAbLbT1FwH7xU2Df3Fb2w==
+     physical_name : .\WIN_Password2.wdw
+     type : 2
+   -
+     name : Details
+     identifier : 0x464c4f7e0124df5f
+     internal_properties : CAAAAAgAAADtacXZ5lPbhF0bXHedMwt5JZZwEKI+iiqkx/YrEAMTLZsBHDPy1+d0/iaQaCjYoBD4eA==
+     physical_name : .\Details.wdw
+     type : 2
+   -
+     name : WIN_Password
+     identifier : 0x464c51070339e00e
+     internal_properties : CAAAAAgAAACSaMre7VrSjVQCaYdqU2dbkuWx8fhhrF66jjmRtIYOgnZU3vJG/ep/9S2XYSHfmw33fw==
+     physical_name : .\WIN_Password.wdw
+     type : 2
+   -
+     name : WIN_Modif
+     identifier : 0x464c50c80256eb8c
+     internal_properties : CAAAAAgAAABZNQEFop+XmKEfITGEExFc3fyk/G/vg9nge+7WnK5slKxECmHyEDjIAjqkHOQc5NQ8xA==
+     physical_name : .\WIN_Modif.wdw
+     type : 2
+   -
+     name : WIN_Duplicate
+     identifier : 0x464c4f9f018261de
+     internal_properties : CAAAAAgAAAArJxN3tPG54u8pbobzf/lgh8Dy4nulDvmpau7nyWG1u0HP0ZDzFnmGzHRuSsoG8uYuNg==
+     physical_name : .\WIN_Duplicate.wdw
+     type : 2
+   -
+     name : WIN_Lock
+     identifier : 0x464c4f2900c99674
+     internal_properties : CAAAAAgAAACsqoSQL1Tcj1r0BWulYckpah9puUsIb3emJhSewHuZd4Wpq2ttS56tJx+ZZy+hWU+5uQ==
+     physical_name : .\WIN_Lock.wdw
+     type : 2
+   -
+     name : WinDevDialogBox
+     identifier : 0x4874bc1306557d2b
+     internal_properties : CAAAAAgAAADvacVBki8/vJRA1IyG2t+/MAsybJ4xGWFWtHr+i6HOdDEI4iHPW5FQ1tIdWkWlEvlq
+     physical_name : .\WinDevDialogBox.WDW
+     type : 2
+   -
+     name : TEST_Tutorial
+     identifier : 0x424e8b790287f114
+     internal_properties : CAAAAAgAAABWPL7iwb72+UYWCbGbpGo32KkX/zRUPoxTu5oxH+MxzzmZ1/4jJaztHxmDfQX7h3lDww==
+     physical_name : .\TEST_Tutorial.wxt
+     type : 17
+  other_elements :
+   -
+     physical_name : .\Description.gif
+  analysis : .\WD Detecting Errors.ana\WD Error Detection.wda
+  net_assemblies : []
+  uwp_api : []
+  external_components : []
+  internal_components : []
+ report_and_queries_enabled : false
+ common_generation_directory : true
+ languages :
+  - en-GB
+ wd_style_sheet : ".\\WD Detecting Errors.sty\r\n.\\WD7 Error Detection.gab"
+ wb_style_sheet : .\WD Detecting Errors.wws
+ code_elements :
+  internal_properties : CAAAAAgAAABseimUYz4VdXZ8hGsGFqoxLDfDcHkNZdBf0iQg2FQcqmw5VrO2lryVMt3efm9RagPlXJBReauIsX3ZdB8=
+  type_code : 0
+  p_codes :
+   -
+     internal_properties : CAAAAAgAAADTuJbgGwHym5CQkQtkKCbtrvg6oBcQGvk/bCKoZDOXvzyBlW2quf/79Es8IVMm1c4DJ03Lxu9sf8JnC+ipfZvuYEw6MC/EYhD4Ofeq2n5xKIYrTra4BAIt4OkYwORK1Q/YhONX2dzwL13nkg2orYMfNnV/EUsmV+TTFHi9GY9c3w==
+     code : |1-
+      GLOBAL
+      	gnMode is int		// management mode of the errors
+      LOCAL
+      	
+      // Multi-user mode
+      HMode(hModeMulti)
+      // Number of attempts during a lock
+      H.NbRetry = 1
+      // Password
+      HPass(REGION,"REGIONPWD")
+      
+      
+      // management mode of the errors
+      gnMode = CommandLine("MODE")
+      // Default mode
+      IF gnMode=0 THEN gnMode=1
+      
+      SWITCH gnMode
+      	CASE 1
+      		// Management with standard windows
+      		HOnError("*", hErrAll)
+      	CASE 2
+      		// Management with standard windows with template
+      		HOnError("*", hErrLock, WIN_Lock)
+      		HOnError("*", hErrModify, WIN_Modif)
+      		HOnError("*", hErrDuplicates, WIN_Duplicate)
+      		HOnError("*", hErrIntegrity, WIN_Integrity)
+      		HOnError("*", hErrPassword, WIN_Password)
+      	CASE 3
+      		// Management with custom windows
+      		HOnError("*", hErrLock, WIN_Lock2)
+      		HOnError("*", hErrModify, WIN_Modif2)
+      		HOnError("*", hErrDuplicates, WIN_Duplicate2)
+      		HOnError("*", hErrIntegrity, WIN_Integrity2)
+      		HOnError("*", hErrPassword, WIN_Password2)
+      	CASE 4
+      		// Management as in 5.5
+      		HOnError("*", hErrAll, "")
+      END
+      
+      // ask for lock
+      IF Position(CommandLine(),"/LOCK")>0 THEN
+      	Open(WIN_Locks)
+      	EndProgram()
+      END
+      
+      // ask for conflict
+      IF Position(CommandLine(),"/CONFLICT")>0 THEN
+      	Open(WIN_Conflict)
+      	EndProgram()
+      END
+     type : 196608
+   -
+     type : 196621
+   -
+     type : 196627
+     enabled : false
+  orphans :
+   -
+     name : WD Detecting HFSQL Errors
+     identifier : 0x4ac601ad00387767
+     code_elements :
+      type_code : 159
+      p_codes : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+rad :
+ internal_properties : CAAAAAgAAABhIL0UXeZmxDJxY3Xy0Q==
+project_explorer :
+ explorer_type : project
+resources :
+ string_res :
+  identifier : 0x0
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAAd98VSJfHHqE3P0QHwrwdhn7ig8dWBR6valpUTgnAMTVXiDg==
